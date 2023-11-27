@@ -1,0 +1,33 @@
+HTML
+etiqueta div --> Es una caja que contiene varios etiquetas html y que ayuda a darles un solo estilo a todas ellas. 
+etiqueta header --> Crea una caja tipo de tipo cabecera en la parte superior de la pagina. 
+etiqueta nav --> Crea una barra de navegacion o menu dentro de un html.
+etiqueta article --> es utilizada para definir un contenido autónomo y de importancia en una página web. Por ejemplo, una entrada de blog, una revisión, una publicación en un foro, etc.
+etiqueta aside --> Crear una barra lateral
+etiqueta footer --> Crear un pie de pagina. 
+etiqueta link --> Asociar una pagina o un archivo dentro de la misma carpeta(un archivo css por ejemplo).
+
+
+CSS
+background-color: --> Fondo del elemento
+font-family --> Cambiar fuente/tipo de letra al documento. 
+height --> Altura que tendra el elemento. 
+margin (left, right, botton, y top) --> establece el margen para los cuatro lados.
+border --> La propiedad border se utiliza para establecer el mismo grosor, estilo y/o anchura de todos los bordes de un elemento.
+text-align --> Alinear texto o elemento en la pagina (left, center, right, etc)
+line-height --> Cetrar elemento dentro de una caja, mismo espacio arriba y abajo. 
+Color --> cambiar color al texto 
+border-bottom: '' px dashed black --> Borde punteado en la parte baja del elemento. 
+float-left --> Permite poner los elementos flotantes uno detras del otro en horizontal. 
+list-style: none --> Quitar estilos por defecto. 
+clear: both --> hace que la caja sobre la que se aplica baje hasta que su borde superior esté por debajo del borde inferior de cualquier elemento flotado a la izquierda o a la derecha.
+min-height: --> altura minima del elemento. 
+padding --> espacio entre un elemento y su interior. 
+font-size --> cambiar tamaño de letra.
+
+
+
+Identificadores CSS 
+# iD {} --> Ayuda como identificador de un elemento en especifico para darle estilo. 
+. clase {} -->Especifica una clase dentro de los elementos para darles estilos. 
+* --> Elige todos los elementos de la pagina y les da estilo. 
